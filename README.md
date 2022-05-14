@@ -20,9 +20,17 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. 
+1. [s22magd150lab01_bishopbrown.zip](https://github.com/autumnbrown1031/MAGD-150-Assignments/files/8692442/s22magd150lab01_bishopbrown.zip)
 
-2. 
+
+2. [s22magd150lab02_bishopbrown.zip](https://github.com/autumnbrown1031/MAGD-150-Assignments/files/8692443/s22magd150lab02_bishopbrown.zip)
+3. [s22magd150lab03_bishopbrown.zip](https://github.com/autumnbrown1031/MAGD-150-Assignments/files/8692444/s22magd150lab03_bishopbrown.zip)
+4. [Autumn's_Lab_4_HW_2022.zip](https://github.com/autumnbrown1031/MAGD-150-Assignments/files/8692440/Autumn.s_Lab_4_HW_2022.zip)
+5. [s22magd150Perspective_Bishop-Brown.zip](https://github.com/autumnbrown1031/MAGD-150-Assignments/files/8692436/s22magd150Perspective_Bishop-Brown.zip)
+
+
+
+
 
 **Bold** and _Italic_ and `Code` text
 
